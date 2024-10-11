@@ -1,5 +1,7 @@
 # Portfolio of changcheng6541
 
+![Profile Image](https://i.imgur.com/I4jsbeD.gif)
+
 ## About Me
 
 Hello! I'm **changcheng6541**, a developer with a strong passion for creating advanced AI solutions and enhancing user experiences in the digital realm. My primary focus is on developing tools and technologies that leverage artificial intelligence to solve complex problems and provide users with valuable resources.
