@@ -38,4 +38,4 @@ A utility for updating and managing active game ranks on Online-Go.com. This pro
 
 ---
 
-© 2024 changcheng6541 | All Rights Reserved
+© 2025 changcheng967 | All Rights Reserved
