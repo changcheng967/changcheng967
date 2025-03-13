@@ -1,10 +1,10 @@
-# Portfolio of changcheng6541
+# Portfolio of changcheng967
 
 ![Profile Image](https://i.imgur.com/I4jsbeD.gif)
 
 ## About Me
 
-Hello! I'm **changcheng6541**, a developer with a strong passion for creating advanced AI solutions and enhancing user experiences in the digital realm. My primary focus is on developing tools and technologies that leverage artificial intelligence to solve complex problems and provide users with valuable resources.
+Hello! I'm **changcheng967**, a developer with a strong passion for creating advanced AI solutions and enhancing user experiences in the digital realm. My primary focus is on developing tools and technologies that leverage artificial intelligence to solve complex problems and provide users with valuable resources.
 
 With a background in computer science and a deep interest in game theory, I have dedicated myself to developing AI systems that are both powerful and accessible. My work includes contributions to the field of Go AI, where I strive to push the boundaries of what's possible in game-playing AI. I enjoy working on projects that challenge conventional approaches and offer innovative solutions.
 
